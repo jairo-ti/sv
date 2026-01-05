@@ -104,7 +104,7 @@ Tabela associativa entre pedidos e produtos.
 
 1. Execute o script `01_create_database.sql`
 2. Execute os scripts da pasta `sql/` na ordem numérica
-3. Utilize o arquivo `05_consultas.sql` para testes
+3. Utilize o arquivo `04_consultas.sql` para testes
 
 ---
 
@@ -119,4 +119,5 @@ Este projeto foi desenvolvido com foco em aprendizado prático e simula um cená
 Jairo Rocha
 
 ---
+
 
